@@ -19,3 +19,6 @@ Run `ng serve --open`
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Screenshot of interface
+![alt text](https://raw.githubusercontent.com/pascalito007/prediction-front/master/preview.png)
